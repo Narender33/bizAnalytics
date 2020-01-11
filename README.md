@@ -12,6 +12,7 @@ Stories Manager
 clone the repository from github (go to repository from [here](https://github.com/Narender33/bizAnalytics.git) ) and then run below command to spin the server.
 
 ```javascript
+npm install
 npm start
 
 ```
